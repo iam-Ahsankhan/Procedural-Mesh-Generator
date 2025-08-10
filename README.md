@@ -14,7 +14,8 @@ Perfect for showcasing procedural geometry, mesh manipulation, and editor script
 ---
 
 ## 🎥 Demo
-!MeshGenerator-ezgif.com-video-to-gif-converter.gif
+![Demo](MeshGenerator-ezgif.com-video-to-gif-converter.gif)
+
 ---
 
 ## 🛠️ How to Use
